@@ -44,7 +44,7 @@ Enhanced predictive performance during stable market conditions.
 ### Trading Strategies
 
 1. Double Cross - over: 
-![fig 1](Image/Doublecrossover.png)
+# ![fig 1](Image/Doublecrossover.png)
 
 #### The Double Crossover Strategy is a trading technique used to identify potential buy or sell signals based on the interaction of two moving averages:
 
@@ -58,7 +58,7 @@ Enhanced predictive performance during stable market conditions.
 
 2. Bollinger Band: 
 
-![fig 2](Image/bollingerband.png)
+# ![fig 2](Image/bollinger_band.png)
 
 #### The Bollinger Band Strategy is a technical analysis tool used to identify price volatility and potential trading opportunities based on price movements relative to a band structure:
 
